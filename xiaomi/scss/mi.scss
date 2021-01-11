@@ -207,11 +207,14 @@ section{
                 line-height:40px;
                 text-align:center;
                 background: #5F5750;
-                color:#fff;
+                color:#C1BEBB;
                 padding:10px 0;
                 img{
                     width:35px;
                 }
+            }
+            li:hover{
+                color:#fff;
             }
         }
     }
